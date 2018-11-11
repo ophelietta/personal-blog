@@ -24,7 +24,7 @@ body {
 
 #banner {
   background-image: url("https://www.adventurouskate.com/wp-content/uploads/2012/06/Visit-Blue-Lagoon-Iceland.jpg");
-  background-position: bottom center;
+  background-position: center;
   background-size: cover;
 }
 
@@ -34,4 +34,11 @@ body {
   top: 50px;
   width: 400px;
   margin: 0 auto;
+}
+
+h1 {
+  color: black;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
 }
