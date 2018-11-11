@@ -1,1 +1,31 @@
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
 
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+.navigation  li.logo {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+#banner {
+  background-image: url("https://photos.google.com/u/1/album/AF1QipM6C_MpnHw5Tj_zWFR2txdKVeSMMsjxnpwPKJG3/photo/AF1QipPT8Fw9bxoxvnaFcI0euCOV8kOsh23hasiv-HIr");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
